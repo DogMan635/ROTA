@@ -1,2 +1,2 @@
 # ROTA
-Reading all online text aloud when requested by the user.
+Reading all Online Text in Audio, when requested by the user.
